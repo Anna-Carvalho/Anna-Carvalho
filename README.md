@@ -8,8 +8,7 @@
  </div><br><br>
 
 ![gif](https://user-images.githubusercontent.com/104832691/167263938-62173547-044c-47e9-a90c-2ac554ec4501.gif)![d86871525065e8377c2299cc37a97d61](https://user-images.githubusercontent.com/104832691/167268361-c694e8d2-19dc-48f4-b2cc-909975b3d873.gif)
-![220](https://user-images.githubusercontent.com/104832691/167268240-7c168bdd-2244-40c4-b457-f92602a97298.gif)![nezuko-anime](https://user-images.githubusercontent.com/104832691/167268313-3c3b1763-0209-4b63-ae12-03dffb2c2cd7.gif)
-
+![220](https://user-images.githubusercontent.com/104832691/167268240-7c168bdd-2244-40c4-b457-f92602a97298.gif)
 <p align="left"> 
 🌎 <em>Olá, sou estudante de tecnologia da informação focada no Web development</em> <strong>especificamente no front-end.</strong>
 </p>
