@@ -56,7 +56,7 @@ Habilidades: <strong> Sou autodidata, dedicada, comunicativa. </strong>
 </p>
 
 
-<img src="![gif Anna](https://user-images.githubusercontent.com/104832691/167262637-1a1a5913-0aee-4a06-98cd-876510355be9.gif)/>
+<img src=![gif Anna](https://user-images.githubusercontent.com/104832691/167262637-1a1a5913-0aee-4a06-98cd-876510355be9.gif)/>
   
  ![Snake animation](https://github.com/Anna-Carvalho/Anna-Carvalho/blob/output/github-contribution-grid-snake.svg)
   
