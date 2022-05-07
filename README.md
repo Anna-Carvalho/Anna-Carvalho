@@ -1,4 +1,4 @@
-<img src="![gif](https://user-images.githubusercontent.com/104832691/167263938-62173547-044c-47e9-a90c-2ac554ec4501.gif)" width="230px" align="right" alt="Developer">
+![gif](https://user-images.githubusercontent.com/104832691/167263938-62173547-044c-47e9-a90c-2ac554ec4501.gif)
  
 <p align="left">                                                                                                               
  
