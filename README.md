@@ -10,6 +10,10 @@ Habilidades: <strong> Sou autodidata, dedicada, comunicativa. </strong>
  ⚡ Pontos fortes: <strong>HTML5, CSS3, SQL, Bootstrap, Python. </strong> 
 </p> 
 
+![gif](https://user-images.githubusercontent.com/104832691/167263938-62173547-044c-47e9-a90c-2ac554ec4501.gif)
+
+<p align="left"> 
+
 <p align="left">
  📚 Studying: <strong>Javascript, PowerBI, Cloud Foundations, C#.</strong>
 </p>
