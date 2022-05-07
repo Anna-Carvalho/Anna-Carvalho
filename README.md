@@ -1,10 +1,10 @@
-<div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+<div style="display: inline_block"
+     
+  <br><img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="![girl](https://user-images.githubusercontent.com/104832691/167262661-1f00b8c2-7d93-4d48-a847-6cd5f72c51ee.png)">
 </div>
 
 
@@ -68,8 +68,9 @@ Habilidades: <strong> Sou autodidata, dedicada, comunicativa. </strong>
 ![gif Anna](https://user-images.githubusercontent.com/104832691/167262637-1a1a5913-0aee-4a06-98cd-876510355be9.gif)
 
 
-  
-![Snake animation](https://github.com/Anna-Carvalho/Anna-Carvalho/blob/output/github-contribution-grid-snake.svg)
+  <br>
+
+  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
   
 <div align="center">
 <p>Total de visitas no perfil:</p>
