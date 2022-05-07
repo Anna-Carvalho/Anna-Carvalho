@@ -1,4 +1,4 @@
-<img src= ![gif](https://user-images.githubusercontent.com/104832691/167263938-62173547-044c-47e9-a90c-2ac554ec4501.gif)/>
+<img align= "rigth" alt="gif.anna" src=https://discordapp.com/channels/@me/842203749413027840/972545273362530384>
 
 <p align="left"> 
 🌎 <em>Olá, sou estudante de tecnologia da informação focada no Web development</em> <strong>especificamente no front-end.</strong>
