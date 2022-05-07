@@ -1,5 +1,5 @@
 
-<img src="![girl](https://user-images.githubusercontent.com/104832691/167262661-1f00b8c2-7d93-4d48-a847-6cd5f72c51ee.png)" width="230px" align="right" alt="Developer">
+![girl](https://user-images.githubusercontent.com/104832691/167262661-1f00b8c2-7d93-4d48-a847-6cd5f72c51ee.png)" width="230px" align="right" alt="Developer">
  
 <p align="left"> 
  🌎 <em>Olá, sou estudante de tecnologia da informação focada no Web development</em> <strong>especificamente no front-end.</strong>
