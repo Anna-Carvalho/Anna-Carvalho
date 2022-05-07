@@ -1,4 +1,13 @@
-<img align= "rigth" alt="gif.anna" src=https://discordapp.com/channels/@me/842203749413027840/972545273362530384>
+<div style="display: inline_block"><br>
+  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="![girl](https://user-images.githubusercontent.com/104832691/167262661-1f00b8c2-7d93-4d48-a847-6cd5f72c51ee.png)">
+</div>
+
+
 
 <p align="left"> 
 🌎 <em>Olá, sou estudante de tecnologia da informação focada no Web development</em> <strong>especificamente no front-end.</strong>
