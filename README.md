@@ -52,11 +52,11 @@ Habilidades: <strong> Sou autodidata, dedicada, comunicativa. </strong>
 <p align="center" >
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Anna-Carvalho&show_icons=true&theme=0061C3&bg_color=181818&text_color=fff"  />
   
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs?username=Anna-Carvalho&show_icons=true&theme=0061C3&bg_color=181818&text_color=fff&layout=compact" alt="Anna" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs?username=Anna-Carvalho&show_icons=true&theme=0061C3&bg_color=181818&text_color=fff&layout=compact" alt="Anna"/>
 </p>
 
 
-<img src= "![gif Anna](https://user-images.githubusercontent.com/104832691/167262637-1a1a5913-0aee-4a06-98cd-876510355be9.gif)>
+<img src="![gif Anna](https://user-images.githubusercontent.com/104832691/167262637-1a1a5913-0aee-4a06-98cd-876510355be9.gif)/>
   
  ![Snake animation](https://github.com/Anna-Carvalho/Anna-Carvalho/blob/output/github-contribution-grid-snake.svg)
   
