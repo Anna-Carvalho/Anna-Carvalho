@@ -7,6 +7,7 @@
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Rafa-mysql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg"> 
   <img align="center" alt="Rafa-mysql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
  </div><br><br>
 
 ![gif](https://user-images.githubusercontent.com/104832691/167263938-62173547-044c-47e9-a90c-2ac554ec4501.gif)![d86871525065e8377c2299cc37a97d61](https://user-images.githubusercontent.com/104832691/167268361-c694e8d2-19dc-48f4-b2cc-909975b3d873.gif)
