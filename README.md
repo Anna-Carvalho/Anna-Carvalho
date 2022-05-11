@@ -16,7 +16,7 @@
 </p>
 
 <p align="left">
- 🧬 
+ 💻
 Habilidades: <strong> Sou autodidata, dedicada, comunicativa. </strong>
 </p>
  
@@ -27,7 +27,7 @@ Habilidades: <strong> Sou autodidata, dedicada, comunicativa. </strong>
 <p align="left"> 
 
 <p align="left">
- 📚 Studying: <strong>Javascript, PowerBI, Cloud Foundations, C#.</strong>
+ 📚 Estudando: <strong>Javascript, PowerBI, Cloud Foundations, C#.</strong>
 </p>
 
 <p align="left">
@@ -35,7 +35,7 @@ Habilidades: <strong> Sou autodidata, dedicada, comunicativa. </strong>
 </p> 
  
 <p align="left">
- 📚 Estudante: <strong>Finalizando o ensino médio profissionalizante.</strong>
+ 📚 Formação Acadêmica: <strong>Finalizando o ensino médio profissionalizante.</strong>
 </p>
  
 <p align="left">
