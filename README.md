@@ -45,7 +45,7 @@ Habilidades: <strong> Sou autodidata, dedicada, comunicativa. </strong>
 <div>
  
 <p align="left">
-  <a href="https://mail.google.com/mail/u/?authuser=karencarv26@gmail.com" alt="Gmail">
+  <a href="mailto:karencarv26@gmail.com" alt="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-1C1C1C?style=for-the-badge&logo=Gmail&logoColor=0061C3" /></a>
  
   <a href="https://www.linkedin.com/in/ana-karen-carvalho-84839a18a/" alt="Linkedin">
