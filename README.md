@@ -27,7 +27,7 @@ Habilidades: <strong> Sou autodidata, dedicada, comunicativa. </strong>
 <p align="left"> 
 
 <p align="left">
- 📚 Estudando: <strong>Javascript, PowerBI, Cloud Foundations, C#.</strong>
+ 📚 Estudando: <strong>JavaScript, PowerBI, Cloud Foundations, C#.</strong>
 </p>
 
 <p align="left">
