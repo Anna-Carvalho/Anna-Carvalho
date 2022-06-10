@@ -54,11 +54,6 @@ Habilidades: <strong> Sou autodidata, dedicada, comunicativa. </strong>
 
 
 <br />
-<br />
-<br /> 
-<br /> 
-<br />
-
 
 
 <p align="center" >
