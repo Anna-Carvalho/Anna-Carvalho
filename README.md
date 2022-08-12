@@ -17,21 +17,21 @@
 
 <p align="left">
  💻
-Habilidades: <strong> Sou autodidata, dedicada, comunicativa. </strong>
+Habilidades: <strong> Sou autodidata, dedicada e comunicativa. </strong>
 </p>
  
 <p align="left">
- ⚡ Pontos fortes: <strong>HTML5, CSS3, SQL, Bootstrap, Python. </strong> 
+ ⚡ Pontos fortes: <strong>HTML5, CSS3, SQL, Bootstrap. </strong> 
 </p> 
 
 <p align="left"> 
 
 <p align="left">
- 📚 Estudando: <strong>JavaScript, PowerBI, Cloud Foundations, C#.</strong>
+ 📚 Estudando: <strong>JavaScript, PowerBI, Cloud Foundations, Python.</strong>
 </p>
 
 <p align="left">
- 🖥️ Ferramentas: <strong>Figma, Git, GitHub, MySQL Workbench, WordPress, VSCode. </strong> 
+ 🖥️ Ferramentas: <strong>Figma, Git, GitHub, MySQL Workbench, WordPress, VSCode, PyCharm. </strong> 
 </p> 
  
 <p align="left">
